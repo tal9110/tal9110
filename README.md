@@ -1,10 +1,22 @@
-# AlloSphere
+<h1 align="center">👋 Hi, I'm Tal</h1>
+
+- 👨‍💻 Web developer specializing in immersive 3D audio-visual experiences
+
+- 👐 Open for work
+
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](http://linkedin.com/in/tal-halperin)
+
+
+- ⬇️ My latest projects
+
+<h1 align="center">AlloSphere</h1>
+
   
 ![allosphere3](https://user-images.githubusercontent.com/9994843/211492522-ffc8ae96-d22f-4e13-a352-b8e38c77c367.gif) 
   
 <div align="center">
 
-<a href="https://allosphere.com">AlloSphere</a>
+<a href="https://allosphere.com">allosphere.com</a>
 
 </div>
 
@@ -20,13 +32,17 @@
 
 </div>
 
-# SoundDrop
+<h1 align="center">SoundDrop</h1>
+
+<div align="center">
   
-![sounddrop2](https://user-images.githubusercontent.com/9994843/211498263-b6346951-9bfa-412d-8544-d0dd4ca6c9ac.gif)
+  ![sounddrop2](https://user-images.githubusercontent.com/9994843/211498263-b6346951-9bfa-412d-8544-d0dd4ca6c9ac.gif)  
+  
+</div>
   
 <div align="center">
 
-<a href="https://sounddrop.io">SoundDrop</a>
+<a href="https://sounddrop.io">sounddrop.io</a>
 
 </div>
 
@@ -43,14 +59,18 @@
 
 </div>
 
-# Stoca
+<h1 align="center">Stoca</h1>
 
+<div align="center">
 
-<img width="1000" alt="Screenshot 2023-01-09 at 5 04 57 PM" src="https://user-images.githubusercontent.com/9994843/211439375-8aca96c0-d14c-4ede-a8a7-c817cfaf7f2a.png">
+<img width="640" alt="Screenshot 2023-01-09 at 5 04 57 PM" src="https://user-images.githubusercontent.com/9994843/211439375-8aca96c0-d14c-4ede-a8a7-c817cfaf7f2a.png">
+  
+</div>
 
 
   <p align="center">
-  https://stoca.vercel.app
+  <div align="center">
+  <a href="https://stoca.vercel.app">stoca.vercel.app</a>
     <br />
     <br />
       Stoca takes you on a reflective journey with a stoic philosopher
@@ -62,7 +82,10 @@
     <br />
     <br />
     Music, code and design by Tal Halperin
+    <br />
+    
 
+    
 <div align="center">
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -79,11 +102,6 @@
 
 </div>
 
-## Screenshots
-<div align=”center”>
-<img width="400" alt="Screenshot 2023-01-09 at 4 59 15 PM copy" src="https://user-images.githubusercontent.com/9994843/211481320-04900a3d-c096-4421-9f1c-ea315e4b7b60.png">
-<img width="400" alt="Screenshot 2023-01-09 at 5 02 27 PM copy" src="https://user-images.githubusercontent.com/9994843/211481326-bcbdb33f-2391-41a3-9d52-20c228012b61.png">
-</div>
 
 
 
