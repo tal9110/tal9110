@@ -20,7 +20,7 @@
 
 </div>
 
-<p align="center">The AlloSphere is a three-story facility at the University of California, Santa Barbara that uses multiple modalities to represent large and complex data, including immersive visualization, sonification, and interactivity. I was commisioned to create a 3D interactive virtual tour of the facility and wrote an audio-reactive score that follows the user throughout the website.</p>
+<p align="center">The AlloSphere is a three-story facility at the University of California, Santa Barbara that uses multiple modalities to represent large and complex data, including immersive visualization, sonification, and interactivity. I was commisioned to create a fully responsive 3D interactive virtual tour of the facility and wrote an audio-reactive score that follows the user throughout the website.</p>
 
 <div align="center">
 
@@ -46,7 +46,7 @@
 
 </div>
 
-<p align="center">I created SoundDrop, a full-stack web app that allows users to create an account and generate stunning marketing materials for their music. SoundDrop takes album cover art and turns it into an interactive point cloud that reacts to audio in real time. Users can add links to their streaming platforms and receive their own URL to share with fans. This product was built using React and React Three Fiber for the front-end and Firebase for the back-end using Stripe's API for payment tech.</p>
+<p align="center">I created SoundDrop, a full-stack web app that allows users to create an account and generate stunning marketing materials for their music. SoundDrop takes album cover art and turns it into an interactive point cloud that reacts to audio in real time. Users can add links to their streaming platforms and receive their own URL to share with fans. This product was built using React and React Three Fiber for the front-end, Firebase for the back-end, Stripe's API for payment tech, and is fully responsive.</p>
 
 <div align="center">
 
