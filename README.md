@@ -4,7 +4,7 @@
 
 - 👐 Open for work
 
-- :mailbox: <a href="https://linkedin/in/tal-halperin">Contact me</a>
+- :mailbox: <a href="https://linkedin.com/in/tal-halperin">Contact me</a>
 
 
 - ⬇️ My latest projects
