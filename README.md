@@ -63,7 +63,9 @@
 
 <div align="center">
 
-<img width="640" alt="Screenshot 2023-01-09 at 5 04 57 PM" src="https://user-images.githubusercontent.com/9994843/211439375-8aca96c0-d14c-4ede-a8a7-c817cfaf7f2a.png">
+<!-- <img width="640" alt="Screenshot 2023-01-09 at 5 04 57 PM" src="https://user-images.githubusercontent.com/9994843/211439375-8aca96c0-d14c-4ede-a8a7-c817cfaf7f2a.png"> -->
+![stoca2](https://user-images.githubusercontent.com/9994843/211513529-36a18556-656b-46fb-ac73-2023ad0c4661.gif)
+
   
 </div>
 
