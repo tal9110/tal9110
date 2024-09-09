@@ -40,7 +40,7 @@
 
 <p align="center">I created SoundDrop, a full-stack web app that allows users to create an account and generate stunning marketing materials for their music. SoundDrop takes album cover art and turns it into an interactive point cloud that reacts to audio in real time. Users can add links to their streaming platforms and receive their own URL to share with fans. This product was built using React and React Three Fiber for the frontend, Firebase for the backend/authentication, Stripe's API for payment tech, and is fully responsive.</p>
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <a href="https://projects.talhalperin.com/projects/sounddrop">Read about how I made it ↗</a>
   <a href="https://sounddrop.io/halp-let-it-happen">View Example Demo 1 ↗</a>
   <a href="https://sounddrop.io/halp-let-it-happen*">View Example Demo 2 ↗</a>
@@ -76,7 +76,7 @@
     Music, code and design by Tal Halperin
     <br />
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <a href="https://projects.talhalperin.com/projects/stoca">Read about how I made it ↗</a>
   <a href="https://github.com/tal9110/stoca">View full code ↗</a>
 </div>
