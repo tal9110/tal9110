@@ -56,7 +56,10 @@
 
 </div>
 
+<div align="center">
+
 <a href="https://stoca.ai">stoca.ai</a>
+</div>
 
 
 <div align="center">
