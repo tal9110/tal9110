@@ -82,7 +82,7 @@
 </p>
 
 <div align="center" style="display: flex; justify-content: center; gap: 40px;">
-  <a href="https://projects.talhalperin.com/projects/stoca">Read about how I made it ↗</a>
+  <a href="https://projects.talhalperin.com/projects/stoca">Read about how I made it ↗</a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/tal9110/stoca">View full code ↗</a>
 </div>
 
