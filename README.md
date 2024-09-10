@@ -4,11 +4,13 @@
 
 - 👐 Open for work
 
+- 📁 <a href="https://projects.talhalperin.com">My portfolio</a>
+
+
 - :mailbox: <a href="mailto:tal9110@gmail.com">Contact me</a>
 
 <!-- 🌐 <a href="https://talhalperin.com">My website</a> -->
 
-- 📁 <a href="https://projects.talhalperin.com">My portfolio</a>
 
 
 - ⬇️ My latest projects
