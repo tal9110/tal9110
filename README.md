@@ -88,7 +88,7 @@
 
 <div align="center">
 
-<a href="https://stoca.ai">stoca.ai</a>
+<a href="https://stoca.vercel.app">stoca.vercel.app</a>
 </div>
 
 
